@@ -111,8 +111,8 @@
       http.send();
       return http.status == 200;
     }
-    var key = prompt("Key:", "");
-    var hash = String(CryptoJS.SHA1(key));
+    //var key = prompt("Key:", "");
+    //var hash = String(CryptoJS.SHA1(key));
     var url = "https://amdkholil.githhub.io/dtp/manifest.plist";
     if (existsFile(url))
       document.write("<div class='container'><a href=itms-services://?action=download-manifest&url=", url, "><div class='download-icon'></div></br>DOWNLOAD</a></div>");
