@@ -6,6 +6,7 @@
 - Flutter
 - Laravel
 - Django
+- Vue
 
 #### Programing Language
 - Dart
