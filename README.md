@@ -5,12 +5,7 @@
 #### Framework
 - Flutter
 - Laravel
-- Codeigniter
-- Express
-- Vue
-- Nuxt
-- Tailwind
-- Bootstrap
+- Django
 
 #### Programing Language
 - Dart
